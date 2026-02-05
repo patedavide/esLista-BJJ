@@ -4,11 +4,19 @@ public class Tecnica {
     private int difficolta;
     private String categoria;
 
-    public static final String RNC = "RNC";
-    public static final String Leva = "Leva al braccio";
-    public static final String Americana = "Americana";
-    public static final String Kimura = "Kimura";
-    public static final String Triangolo = "Triangolo";
+    public static final String RNC = "0";
+    public static final String Leva = "1";
+    public static final String Americana = "2";
+    public static final String Kimura = "3";
+    public static final String Triangolo = "4";
+
+    public enum NomeTecnica {
+        RNC,
+        Leva,
+        Americana,
+        Kimura,
+        Triangolo
+    }
 
     public Tecnica(String nome, int difficolta, String categoria){
         this.nome = nome;
