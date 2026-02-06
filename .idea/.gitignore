@@ -1,2 +1,7 @@
+.gitignore
+# Cartelle IntelliJ
 .idea/
+*.iml
+
+# Output di compilazione
 out/
