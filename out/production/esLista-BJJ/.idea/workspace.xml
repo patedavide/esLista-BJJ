@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5d130c3-5ccf-4701-b386-2c5b5956184c" name="Changes" comment="classe iteratore">
+      <change beforePath="$PROJECT_DIR$/Iteratore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Iteratore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/paterno.22139/IdeaProjects/esLista-BJJ" value="39EyHWMLmxYC00oIOQrXWEGQL3B" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;patedavide&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/patedavide/esLista-BJJ.git&quot;,
+    &quot;accountId&quot;: &quot;d04db964-0a5d-49c6-a267-38c475d0967a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="39EyHWMLmxYC00oIOQrXWEGQL3B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5d130c3-5ccf-4701-b386-2c5b5956184c" name="Changes" comment="" />
+      <created>1770275436943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770275436943</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Creazione Classi e Classe Tecnica">
+      <option name="closed" value="true" />
+      <created>1770277343559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770277343559</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Classe Lista">
+      <option name="closed" value="true" />
+      <created>1770278413777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770278413777</updated>
+    </task>
+    <task id="LOCAL-00003" summary="miglioramento delle classi">
+      <option name="closed" value="true" />
+      <created>1770379664245</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770379664245</updated>
+    </task>
+    <task id="LOCAL-00004" summary="no .idea .out">
+      <option name="closed" value="true" />
+      <created>1770381087518</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770381087518</updated>
+    </task>
+    <task id="LOCAL-00005" summary="no .idea .out">
+      <option name="closed" value="true" />
+      <created>1770381225653</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770381225653</updated>
+    </task>
+    <task id="LOCAL-00006" summary="no .idea .out">
+      <option name="closed" value="true" />
+      <created>1770381283002</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770381283002</updated>
+    </task>
+    <task id="LOCAL-00007" summary="no .idea .out">
+      <option name="closed" value="true" />
+      <created>1770381555398</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770381555398</updated>
+    </task>
+    <task id="LOCAL-00008" summary="no .idea .out">
+      <option name="closed" value="true" />
+      <created>1770382129346</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770382129346</updated>
+    </task>
+    <task id="LOCAL-00009" summary="no .idea .out">
+      <option name="closed" value="true" />
+      <created>1770382223413</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770382223413</updated>
+    </task>
+    <task id="LOCAL-00010" summary="classe iteratore">
+      <option name="closed" value="true" />
+      <created>1770382371890</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770382371890</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creazione Classi e Classe Tecnica" />
+    <MESSAGE value="Classe Lista" />
+    <MESSAGE value="miglioramento delle classi" />
+    <MESSAGE value="no .idea .out" />
+    <MESSAGE value="classe iteratore" />
+    <option name="LAST_COMMIT_MESSAGE" value="classe iteratore" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

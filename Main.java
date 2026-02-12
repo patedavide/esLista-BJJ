@@ -8,17 +8,35 @@ public class Main {
         Tecnica t4 = new Tecnica("Americana", 5, Tecnica.Categoria.SOTTOMISSIONE);
         Tecnica t5 = new Tecnica("Triangolo", 5, Tecnica.Categoria.SOTTOMISSIONE);
 
-        System.out.println("\nTecniche della lista:");
         listaTecniche.aggiungiOrdinato(t1);
         listaTecniche.aggiungiOrdinato(t2);
         listaTecniche.aggiungiOrdinato(t3);
         listaTecniche.aggiungiOrdinato(t4);
         listaTecniche.aggiungiOrdinato(t5);
-        listaTecniche.stampaLista();
+
+        System.out.println("\nTecniche della lista :");
+        stampaConIteratore(listaTecniche);
 
         listaTecniche.rimuoviElemento(t4);
-        System.out.println("\nTecniche dopo rimozione di Americana:");
-        listaTecniche.stampaLista();
+        System.out.println("\nTecniche dopo rimozione di Americana :");
+        stampaConIteratore(listaTecniche);
 
+        System.out.println("\nTecniche con metodo tradizionale:");
+        listaTecniche.stampaLista();
+    }
+
+    public static void stampaConIteratore(Lista lista) {
+        Iteratore iter = lista.getIteratore();
+
+        if (!iter.hasNext()) {
+            System.out.println("Lista vuota");
+            return;
+        }
+
+        while (iter.hasNext()) {
+            Tecnica t = iter.next();
+            System.out.println(t.getNome() + " (difficoltà: " + t.getDifficolta() +
+                    ", categoria: " + t.getCategoria() + ")");
+        }
     }
 }

@@ -90,5 +90,23 @@ public class Lista {
         }
     }
 
+    public Iteratore getIteratore(){
+        return new Iteratore(this.head);
+    }
+    public int contaTecnichePerCategoria(Tecnica.Categoria categoria) {
+        int count = 0;
+        Iteratore iter = getIteratore();
+
+        while (iter.hasNext()) {
+            Tecnica t = iter.next();
+            if (t.getCategoria() == categoria) {
+                count++;
+            }
+        }
+
+        return count;
+    }
+
+
 
 }

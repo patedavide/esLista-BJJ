@@ -6,9 +6,6 @@ public class Iteratore {
     }
 
     public  Tecnica next() {
-        if (current == null) {
-            throw new NoSuchElementException("Non ci sono più elementi nella lista.");
-        }
         Tecnica tecnica = current.getTecnica();
         current = current.getNext();
         return tecnica;
