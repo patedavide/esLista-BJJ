@@ -20,9 +20,6 @@ public class Main {
         listaTecniche.rimuoviElemento(t4);
         System.out.println("\nTecniche dopo rimozione di Americana :");
         stampaConIteratore(listaTecniche);
-
-        System.out.println("\nTecniche con metodo tradizionale:");
-        listaTecniche.stampaLista();
     }
 
     public static void stampaConIteratore(Lista lista) {
